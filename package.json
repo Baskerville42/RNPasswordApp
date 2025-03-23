@@ -1,0 +1,55 @@
+{
+  "name": "rnpasswordapp",
+  "version": "0.0.1",
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "lint": "eslint .",
+    "start": "react-native start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "19.0.0",
+    "react-native": "0.78.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "@babel/runtime": "^7.25.0",
+    "@react-native-community/cli": "15.0.1",
+    "@react-native-community/cli-platform-android": "15.0.1",
+    "@react-native-community/cli-platform-ios": "15.0.1",
+    "@react-native/babel-preset": "0.78.1",
+    "@react-native/eslint-config": "0.78.1",
+    "@react-native/metro-config": "0.78.1",
+    "@react-native/typescript-config": "0.78.1",
+    "@types/jest": "^29.5.13",
+    "@types/react": "^19.0.0",
+    "@types/react-test-renderer": "^19.0.0",
+    "eslint": "^8.19.0",
+    "jest": "^29.6.3",
+    "prettier": "2.8.8",
+    "react-test-renderer": "19.0.0",
+    "typescript": "5.0.4"
+  },
+  "author": {
+    "email": "alexander@tartmin.name",
+    "name": "Alexander Tartmin",
+    "url": "https://github.com/Baskerville42"
+  },
+  "bugs": {
+    "url": "https://github.com/Baskerville42/RNPasswordApp/issues",
+    "email": "alexander@tartmin.name"
+  },
+  "description": "An Example of Implementing an Autofill Credential Provider in React Native",
+  "engines": {
+    "node": ">=22"
+  },
+  "homepage": "https://github.com/Baskerville42/RNPasswordApp",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "url": "git@github.com:Baskerville42/RNPasswordApp.git",
+    "type": "git"
+  }
+}
